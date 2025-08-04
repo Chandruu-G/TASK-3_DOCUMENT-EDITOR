@@ -1,0 +1,3 @@
+collab-editor/
+├── client/        # React App
+└── server/        # Node.js + Socket.IO
